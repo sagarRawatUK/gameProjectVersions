@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.10.1930]
+    Renderer: Intel(R) 82945G Express Chipset Family
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=20 DepthRT=0 NativeDepth=0 NativeShadow=0 DF16=0 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=0 BC5=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.044 seconds
+Platform assembly: C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\shree ju\Documents\Unity\Top_Down_Shooter\Builds\Windows\3\Angry Boii_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredShading' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredShading' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredReflections' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Setting to default shader.
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlur' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeCopy' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlend' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecode' - Pass 'YCBCR_TO_RGB1' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecode' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-CombineDepthNormals' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-CombineDepthNormals' - Setting to default shader.
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.234470 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.415366 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.553911 ms (FindLiveObjects: 0.092984 ms CreateObjectMapping: 0.037650 ms MarkObjects: 0.385627 ms  DeleteObjects: 0.034227 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.520831 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 3.612688 ms (FindLiveObjects: 0.247006 ms CreateObjectMapping: 0.037650 ms MarkObjects: 0.431263 ms  DeleteObjects: 2.893345 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.407881 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.628070 ms (FindLiveObjects: 0.098688 ms CreateObjectMapping: 0.035938 ms MarkObjects: 0.373647 ms  DeleteObjects: 0.116943 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 14f8 -> priority: 1 
